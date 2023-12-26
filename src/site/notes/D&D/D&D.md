@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/d-and-d/","tags":["gardenEntry"],"created":"2023-07-17T11:16:40.000+04:00","updated":"2023-12-26T18:03:36.127+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/d-and-d/","tags":["gardenEntry"],"created":"2023-07-17T11:16:40.000+04:00","updated":"2023-12-26T19:18:43.079+04:00"}
 ---
 
 > Заметки о сессиях с пометкой "🛑" не заполнены. 
