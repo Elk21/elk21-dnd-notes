@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/d-and-d-lokaczii/","tags":["gardenEntry"],"created":"2023-12-27T14:23:48.915+04:00","updated":"2023-12-27T14:31:29.450+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/d-and-d-lokaczii/","created":"2023-12-27T14:23:48.915+04:00","updated":"2023-12-27T14:39:47.250+04:00"}
 ---
 
 **[[D&D/D&D Сессии\|<< Главная]]** 
