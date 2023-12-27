@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/d-and-d-personazhi/","tags":["gardenEntry"],"created":"2023-12-27T14:23:46.917+04:00","updated":"2023-12-27T14:31:04.801+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/d-and-d-personazhi/","created":"2023-12-27T14:23:46.917+04:00","updated":"2023-12-27T14:39:50.216+04:00"}
 ---
 
 **[[D&D/D&D Сессии\|<< Главная]]** 
