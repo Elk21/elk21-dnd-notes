@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/d-and-d-sessii/","tags":["gardenEntry"],"created":"2023-12-27T14:23:39.118+04:00","updated":"2023-12-27T14:31:14.240+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/d-and-d-sessii/","created":"2023-12-27T14:23:39.118+04:00","updated":"2023-12-27T14:39:52.742+04:00"}
 ---
 
 **[[D&D/D&D Сессии\|<< Главная]]** 
