@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/d-and-d-igroki/","created":"2023-12-27T19:29:59.576+04:00","updated":"2023-12-27T19:32:59.174+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/d-and-d-igroki/","created":"2024-02-19T19:15:28.313+03:00","updated":"2023-12-27T18:32:59.174+03:00"}
 ---
 
 **[[D&D/D&D Сессии\|<< Главная]]** 
