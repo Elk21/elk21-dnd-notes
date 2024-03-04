@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/d-and-d-lokaczii/","created":"2023-12-27T14:23:48.915+04:00","updated":"2023-12-27T14:39:47.250+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/d-and-d-lokaczii/","created":"2024-02-19T19:15:28.319+03:00","updated":"2023-12-27T13:39:47.250+03:00"}
 ---
 
 **[[D&D/D&D Сессии\|<< Главная]]** 
