@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d/personazhi/ifan-talro-a/","created":"2023-12-18T12:30:58.000+04:00","updated":"2023-12-26T15:51:51.457+04:00"}
+{"dg-publish":true,"permalink":"/d-and-d/personazhi/ifan-talro-a/","created":"2024-02-19T19:15:28.915+03:00","updated":"2023-12-26T14:51:51.457+03:00"}
 ---
 
 ![Pasted image 20231225201907.png](/img/user/img/Pasted%20image%2020231225201907.png)
